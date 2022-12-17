@@ -19,5 +19,8 @@ Red areas have the most cases.
 
 <img width="905" alt="Screenshot 2022-12-17 at 10 02 50 AM" src="https://user-images.githubusercontent.com/79704021/208224961-c73d26bd-f411-48d2-ae66-ab2df618b6e5.png">
 
+
+Live web app link: 
+
 https://covid-19-tracker-c62b4.web.app/
 
